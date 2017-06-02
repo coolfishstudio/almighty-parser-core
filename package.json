@@ -1,0 +1,21 @@
+{
+  "name": "almighty-parser-core",
+  "version": "0.0.1",
+  "description": "crawler parser core",
+  "main": "index.js",
+  "scripts": {
+    "test:qiushibaike": "node --harmony-async-await ./example/test/qiushibaike.js"
+  },
+  "keywords": "crawler, parser",
+  "author": "Yves",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "cheerio": "^1.0.0-rc.1",
+    "iconv-lite": "^0.4.17",
+    "opencc": "^1.0.5",
+    "request": "^2.81.0",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.24"
+  }
+}
