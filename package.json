@@ -12,7 +12,7 @@
   },
   "keywords": "crawler, parser",
   "author": "Yves",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.4.1",
     "cheerio": "^1.0.0-rc.1",

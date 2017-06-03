@@ -11,6 +11,11 @@
 [![npm](https://img.shields.io/npm/dm/almighty-parser-core.svg)]()
 [![license](https://img.shields.io/github/license/coolfishstudio/almighty-parser-core.svg)]()
 
+## 安装
+```
+npm i --save almighty-parser-core
+```
+
 ## api接口
 - [x] `getLinks` 获取待抓页链接
 - [x] `getContent` 获取详情页内容
@@ -191,3 +196,7 @@ const parser = new Crawler(options)
 ```
 npm run test:qiushibaike
 ```
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
