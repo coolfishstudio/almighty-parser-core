@@ -1,4 +1,4 @@
-# 页面解析核心
+# 页面爬虫解析器核心
 此工具适用于
 1. 对单独页面链接进行解析
 2. 配合队列进行多页面解析
@@ -138,6 +138,7 @@ const parser = new Crawler(options)
 ```
 
 ### API测试
+[测试案例](https://github.com/coolfishstudio/almighty-parser-core/blob/master/example/test/qiushibaike.js)
 #### parse
 ```
 { fields:
