@@ -3,6 +3,14 @@
 1. 对单独页面链接进行解析
 2. 配合队列进行多页面解析
 
+## 解释说明
+支持详情页下一页抓取，支持繁体转换，支持对字数统计，支持对图片数量统计。
+目前主要针对静态页的解析，对json请求和jsonp请求的解析做了预留(暂不支持)。
+
+[![npm](https://img.shields.io/npm/v/almighty-parser-core.svg)]()
+[![npm](https://img.shields.io/npm/dm/almighty-parser-core.svg)]()
+[![license](https://img.shields.io/github/license/coolfishstudio/almighty-parser-core.svg)]()
+
 ## api接口
 - [x] `getLinks` 获取待抓页链接
 - [x] `getContent` 获取详情页内容
@@ -12,6 +20,7 @@
 - [x] `getIdFromArticleUrl` 获取页面链接的唯一标示
 
 ## 配置参数
+[文档说明](https://github.com/coolfishstudio/almighty-parser-core/blob/master/doc/CONFIG.md)
 
 ## 实例
 ### 定义网站规则

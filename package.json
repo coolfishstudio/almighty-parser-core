@@ -6,6 +6,10 @@
   "scripts": {
     "test:qiushibaike": "node --harmony-async-await ./example/test/qiushibaike.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coolfishstudio/vue-baidu-map.git"
+  },
   "keywords": "crawler, parser",
   "author": "Yves",
   "license": "ISC",
