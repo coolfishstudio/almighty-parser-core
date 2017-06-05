@@ -1,6 +1,6 @@
 {
   "name": "almighty-parser-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "crawler prser core",
   "main": "index.js",
   "scripts": {
