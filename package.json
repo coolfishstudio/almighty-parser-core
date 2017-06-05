@@ -1,7 +1,7 @@
 {
   "name": "almighty-parser-core",
-  "version": "0.0.2",
-  "description": "crawler parser core",
+  "version": "1.0.0",
+  "description": "crawler prser core",
   "main": "index.js",
   "scripts": {
     "test:qiushibaike": "node --harmony-async-await ./example/test/qiushibaike.js"
