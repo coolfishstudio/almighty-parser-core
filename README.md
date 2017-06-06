@@ -28,6 +28,11 @@ npm i --save almighty-parser-core
 [文档说明](https://github.com/coolfishstudio/almighty-parser-core/blob/master/doc/CONFIG.md)
 
 ## 实例
+### 解析器案例
+[糗事百科 - 基础](https://github.com/coolfishstudio/almighty-parser-core/blob/master/example/parser/parser-qiushibaike.js)
+[今日健康 - 繁体](https://github.com/coolfishstudio/almighty-parser-core/blob/master/example/parser/parser-healthno1.js)
+[爆料网 - 详情下一页](https://github.com/coolfishstudio/almighty-parser-core/blob/master/example/parser/parser-baoliao5.js)
+
 ### 定义网站规则
 ```
 module.exports = {

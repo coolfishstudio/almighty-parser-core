@@ -1,10 +1,12 @@
 {
   "name": "almighty-parser-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "crawler prser core",
   "main": "index.js",
   "scripts": {
-    "test:qiushibaike": "node --harmony-async-await ./example/test/qiushibaike.js"
+    "test:qiushibaike": "node --harmony-async-await ./example/test/qiushibaike.js",
+    "test:healthno1": "node --harmony-async-await ./example/test/healthno1.js",
+    "test:baoliao5": "node --harmony-async-await ./example/test/baoliao5.js"
   },
   "repository": {
     "type": "git",
