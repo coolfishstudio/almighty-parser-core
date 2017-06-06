@@ -93,7 +93,7 @@ module.exports = {
     // 编码 默认utf-8
     charset: null,
     // 语言格式
-    i18n: 'tw',
+    i18n: 'tw2s',
     // 回调函数 对所有数据做处理
     afterExtractAll: function (data) {
         data.fields['comments'] = 0;

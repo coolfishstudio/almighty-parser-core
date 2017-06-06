@@ -1,13 +1,13 @@
 'use strict';
 const Crawler = require('../../index.js')
-const options = require('../parser/parser-baoliao5.js')
+const options = require('../parser/parser-healthno1.js')
 const parser = new Crawler(options)
 
 // const url = 'http://www.healthno1.com/'
-const url = 'http://www.healthno1.com/feature_articles.html?start=12'
+// const url = 'http://www.healthno1.com/feature_articles.html?start=12'
 // const url = 'http://www.healthno1.com/feature_articles.html'
 // const url = 'http://www.healthno1.com/health_info/16841-2017-05-12-03-10-00.html'
-// const url = 'http://www.healthno1.com/16939-2017-05-19-10-16-00.html'
+const url = 'http://www.healthno1.com/16939-2017-05-19-10-16-00.html'
 
 let errorItems = []
 
