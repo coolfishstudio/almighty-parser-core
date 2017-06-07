@@ -3,6 +3,8 @@
 1. 对单独页面链接进行解析
 2. 配合队列进行多页面解析
 
+[![NPM](https://nodei.co/npm/almighty-parser-core.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/almighty-parser-core/)
+
 ## 解释说明
 支持详情页下一页抓取，支持繁体转换，支持对字数统计，支持对图片数量统计。
 目前主要针对静态页的解析，对json请求和jsonp请求的解析做了预留(暂不支持)。
